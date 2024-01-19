@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm a mathematician that study quantum information theory.  
+But I'm also interested in various aspects of life and existence. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My stackexchange [profile](https://quantumcomputing.stackexchange.com/users/5870/danylo-y).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[Lectures](https://www.youtube.com/watch?v=aikrnsAPr5Y&list=PLxOa-Qg5r766vbY__MXMheyY1ERl-03K9) on quantum information (in ukrainian).
 
+### Contact me
 
-[jekyll-organization]: https://github.com/jekyll
+[danylo.yakymenko@gmail.com](mailto:danylo.yakymenko@gmail.com)
