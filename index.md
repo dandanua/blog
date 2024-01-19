@@ -1,1 +1,5 @@
-index
+---
+title: About
+---
+
+some info
