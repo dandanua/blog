@@ -1,8 +1,8 @@
 ---
 title: Why I wouldn't recommend using Bitcoin as a lifetime investment
-date: 2020-11-21 12:00:00 +0200
-categories: [misc]
-tags: []     # TAG names should always be lowercase
+# date: 2020-11-21 12:00:00 +0200
+# categories: [misc]
+# tags: []     # TAG names should always be lowercase
 ---
 
 As Bitcoin approaches a new price record after 3 years delay a new wave of its popularity and advertisement is expected. In such waves all the risks, downsides, pitfalls are usually hidden and the bright future is pleasantly described. I want to highlight all those dark corners and also to give my view of this field. 

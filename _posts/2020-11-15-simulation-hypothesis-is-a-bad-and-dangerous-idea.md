@@ -1,8 +1,8 @@
 ---
 title: Simulation hypothesis is a bad and dangerous idea
-date: 2020-11-15 12:00:00 +0200
-categories: [misc]
-tags: []     # TAG names should always be lowercase
+# date: 2020-11-15 12:00:00 +0200
+# categories: [misc]
+# tags: []     # TAG names should always be lowercase
 ---
 
 ## **Are we living in a simulation?**

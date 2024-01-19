@@ -1,8 +1,8 @@
 ---
 title: Major flaws of human thinking
-date: 2020-12-05 17:26:00 +0200
-categories: [misc]
-tags: []     # TAG names should always be lowercase
+# date: 2020-12-05 17:26:00 +0200
+# categories: [misc]
+# tags: []     # TAG names should always be lowercase
 --- 
 
 As in the lovely child's quote found on the internet —

@@ -1,8 +1,8 @@
 ---
 title: The Spin of a Human Body
-date: 2021-08-23 12:15:00 +0300
-categories: [misc]
-tags: []     # TAG names should always be lowercase
+# date: 2021-08-23 12:15:00 +0300
+# categories: [misc]
+# tags: []     # TAG names should always be lowercase
 math: true
 --- 
 

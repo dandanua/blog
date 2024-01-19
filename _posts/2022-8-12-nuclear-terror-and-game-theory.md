@@ -1,9 +1,8 @@
 ---
 title: Nuclear Terror and Game Theory
-date: 2022-08-12 19:10:00 +0300
-categories: [misc]
-tags: []     # TAG names should always be lowercase
-math: true
+# date: 2022-08-12 19:10:00 +0300
+# categories: [misc]
+# tags: []     # TAG names should always be lowercase
 --- 
 
 ## 1. Introduction

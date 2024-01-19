@@ -1,9 +1,8 @@
 ---
 title: Is Math Alive?
-date: 2024-01-19 18:00:00 +0200
-categories: [misc]
-tags: []     # TAG names should always be lowercase
-math: true
+# date: 2024-01-19 18:00:00 +0200
+# categories: [misc]
+# tags: []     # TAG names should always be lowercase
 --- 
 
 With the invention of computers in 20th century algorithms have become an important part of our human civilization. At first, they were mostly used for scientific calculations and purposes. But with the growth of computational power algorithms today affect major parts of our lives. It's not just that almost anyone has a computer in its possession. Algorithms run industrial machines and critical infrastructures (although not yet fully autonomously). With AI advances algorithms more and more affect our lives directly. They decide what you see in your social feed. And what recommendations and ads you'll receive, which could be life changing in the case of a job proposal or a partner on a dating site. Algorithms are increasingly involved in deciding your credit rating in banks, your diagnoses in clinics and your expected performances on whatever you're dealing with. Algorithms are helping polititians to decide what to promote to get as much votes for them as possible. In the future AI will make many human jobs obsolete. The doom scenarios are thus quite possible, but this post isn't about it.

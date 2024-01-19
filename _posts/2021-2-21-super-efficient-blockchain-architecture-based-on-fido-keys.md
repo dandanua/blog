@@ -1,8 +1,8 @@
 ---
 title: Super-efficient blockchain architecture based on FIDO keys
-date: 2021-02-21 17:19:00 +0200
-categories: [misc]
-tags: []     # TAG names should always be lowercase
+# date: 2021-02-21 17:19:00 +0200
+# categories: [misc]
+# tags: []     # TAG names should always be lowercase
 --- 
 
 ## 1. Introduction
