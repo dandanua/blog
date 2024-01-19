@@ -1,8 +1,7 @@
 ---
 title: Simulation hypothesis is a bad and dangerous idea
-# date: 2020-11-15 12:00:00 +0200
-# categories: [misc]
-# tags: []     # TAG names should always be lowercase
+redirect_from:
+  - /posts/simulation-hypothesis-is-a-bad-and-dangerous-idea/
 ---
 
 ## **Are we living in a simulation?**
