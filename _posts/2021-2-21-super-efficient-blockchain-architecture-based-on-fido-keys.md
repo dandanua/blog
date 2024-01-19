@@ -1,8 +1,7 @@
 ---
 title: Super-efficient blockchain architecture based on FIDO keys
-# date: 2021-02-21 17:19:00 +0200
-# categories: [misc]
-# tags: []     # TAG names should always be lowercase
+redirect_from:
+  - /posts/super-efficient-blockchain-architecture-based-on-fido-keys/
 --- 
 
 ## 1. Introduction

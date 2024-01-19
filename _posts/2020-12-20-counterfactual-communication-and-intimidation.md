@@ -1,8 +1,7 @@
 ---
 title: Counterfactual communication and intimidation
-# date: 2020-12-20 13:33:00 +0200
-# categories: [misc]
-# tags: []     # TAG names should always be lowercase
+redirect_from:
+  - /posts/counterfactual-communication-and-intimidation/
 --- 
 
 A few years ago a remarkable event happened. A team of physicists performed an [experiment](https://www.pnas.org/content/114/19/4920) of counterfactual communication. Using the quantum properties of light, they were able to transmit information without sending photon particles to the receiver. This was never performed before or observed in nature. We see objects because reflected photons drop on our retina and start chemical reactions. In optical fibers information is carried by photons that ended up on the receiver side. 

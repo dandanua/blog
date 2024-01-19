@@ -1,8 +1,7 @@
 ---
 title: Major flaws of human thinking
-# date: 2020-12-05 17:26:00 +0200
-# categories: [misc]
-# tags: []     # TAG names should always be lowercase
+redirect_from:
+  - /posts/major-flaws-of-human-thinking/
 --- 
 
 As in the lovely child's quote found on the internet —
